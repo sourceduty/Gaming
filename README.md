@@ -113,6 +113,8 @@ The combination of Rust's dynamic gameplay and Fortify's advanced design capabil
 [4TRESS](https://github.com/sourceduty/4TRESS)
 <br>
 [Sky Tetris](https://github.com/sourceduty/SkyTetris)
+<br>
+[PC Design](https://github.com/sourceduty/PC_Design)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
