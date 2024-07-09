@@ -17,7 +17,7 @@ However, there are challenges and criticisms associated with both types of games
 #
 ### Steam Gaming
 
-![Gamers](https://github.com/sourceduty/Gaming/assets/123030236/a3314856-469f-4652-91e5-dc2e59374432)
+![Steam](https://github.com/sourceduty/Gaming/assets/123030236/6bef3ac9-46f1-4b3a-bea4-b48c0b85b5b8)
 
 #
 
