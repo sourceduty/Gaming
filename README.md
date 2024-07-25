@@ -64,6 +64,13 @@ Looking forward, the trend toward cross-platform gaming is expected to continue 
 
 <br>
 </details>
+<details><summary>Steam Business Idea</summary>
+<br>
+
+![Connor Malone - Valve Corporation](https://github.com/user-attachments/assets/7b4d678b-6760-4349-b190-c223c84ed0dc)
+
+<br>
+</details>
 
 #
 ### Video Game Highlights
