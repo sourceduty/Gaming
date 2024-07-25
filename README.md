@@ -69,6 +69,10 @@ Looking forward, the trend toward cross-platform gaming is expected to continue 
 
 ![Connor Malone - Valve Corporation](https://github.com/user-attachments/assets/7b4d678b-6760-4349-b190-c223c84ed0dc)
 
+#
+
+> Alex: "*I want to pitch a free private concept business model idea to Valve for Steam.*"
+
 <br>
 </details>
 
