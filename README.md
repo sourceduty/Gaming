@@ -114,8 +114,6 @@ Another Sourceduty initiative is the development of a concept multiplayer game i
 
 [Game Development](https://github.com/sourceduty/Game_Development)
 <br>
-[Casino Tactics](https://github.com/sourceduty/Casino_Tactics)
-<br>
 [Python Game Builder](https://github.com/sourceduty/Python_Game_Builder)
 <br>
 [Catch Them All](https://github.com/sourceduty/Catch_Them_All)
