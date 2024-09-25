@@ -1,8 +1,19 @@
-![Gamer](https://github.com/sourceduty/Gaming/assets/123030236/5f0ab381-d9ff-4507-a2f4-51d124252c66)
+![Sticky Baller](https://github.com/user-attachments/assets/296fb37e-1dd5-4672-a535-4909b22ee458)
 
 > Digital and physical games.
 
 #
+
+Sourceduty has developed several innovative gaming projects, each with unique gameplay and design features. One example is "Combat Demolition," a multiplayer first-person shooter (FPS) game that combines traditional FPS mechanics with base-building elements. Players can engage in intense battles against both human and AI opponents while constructing and upgrading their bases. A distinctive feature of this game is the "Lives System," where players purchase lives with real money, adding a strategic layer to the gameplay. The game offers various modes, including team deathmatch and objective-based missions, making it a compelling choice for competitive gamers looking for both action and strategy​.
+
+Another interesting project is "Sphere Tanks," a sci-fi military game where players control spherical war tanks. This game emphasizes strategic movement and customization, allowing players to modify their tanks with different weapons, skins, and abilities. It offers multiple game modes like team deathmatch, capture the flag, and free-for-all, set in diverse futuristic landscapes. The physics-based gameplay and destructible environments add a tactical depth that challenges players to utilize both terrain and equipment effectively.
+
+Additionally, "Sticky Ball" presents a unique vehicle-based sandbox adventure where players control an omnidirectional sphere-shaped vehicle capable of adhering to any surface. The game focuses on exploration and puzzle-solving within a dynamic urban environment, providing a creative and open-ended gameplay experience​.
+
+#
+### Games
+
+![Gamer](https://github.com/sourceduty/Gaming/assets/123030236/5f0ab381-d9ff-4507-a2f4-51d124252c66)
 
 Physical and digital games have become integral parts of human entertainment, each offering unique experiences and benefits. Physical games, such as board games, card games, and sports, often require players to be in the same physical space. These games promote social interaction, strategic thinking, and sometimes physical activity, enhancing both mental and physical health. The tactile nature of physical games can be highly engaging, providing a sensory experience that digital games cannot replicate. Moreover, physical games can be more accessible, not requiring expensive equipment or technology, making them a popular choice for many people.
 
@@ -83,6 +94,17 @@ Fortify is a powerful software tool that assists Rust players in designing and s
 Using Fortify, Rust players can create detailed and complex bases that might be difficult to envision otherwise. The software allows users to simulate various attack scenarios, helping them identify potential weak points in their designs. This proactive approach enables players to reinforce vulnerable areas and develop more robust defenses. Additionally, Fortify's ability to share base designs with others fosters a community of collaboration, where players can exchange ideas and improve upon each other's creations.
 
 The combination of Rust's dynamic gameplay and Fortify's advanced design capabilities creates a comprehensive experience for players who enjoy the strategic elements of base building. Fortify enhances the planning process, making it more accessible and efficient, while Rust provides the challenging environment where these plans are put to the test. Together, they offer a compelling blend of creativity, strategy, and survival, making Rust base building a deeply engaging aspect of the game.
+
+<br>
+</details>
+<details><summary>Grand Theft Auto</summary>
+<br>
+
+![GTA](https://github.com/user-attachments/assets/c1231fdf-7fee-4486-a0e0-285857612079)
+
+Sourceduty has been exploring creative game design concepts that intersect with the Grand Theft Auto series. One of their notable projects, hosted on GitHub, is a conceptual design document for a fictional game titled "Grand Theft Auto 8" (GTA8). This project introduces a new protagonist, Nikole Bellic, a former street racer who returns to her hometown embroiled in a power struggle between rival factions. The game narrative aims to combine personal and criminal stakes, giving players a complex character to navigate through an expansive, open-world environment. The storyline is designed to explore themes of revenge and ethical dilemmas while allowing for dynamic gameplay that includes mission-based activities, faction alliances, and multiplayer modes for cooperative and competitive play​.
+
+Another Sourceduty initiative is the development of a concept multiplayer game inspired by cheat codes, creatively titled "Cheat_Codes." This project imagines a gaming experience where players can modify and customize their gameplay environment using cheat-inspired mechanics, such as character customization, infinite resources, and unique abilities like "big head mode" or "moon gravity." This project is open-source, allowing the community to contribute to and expand upon the game's core ideas, reflecting Sourceduty's commitment to collaborative and innovative digital content creation.
 
 <br>
 </details>
