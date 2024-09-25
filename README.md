@@ -65,10 +65,6 @@ Each perspective offers distinct advantages and influences how players interact 
 
 <br>
 </details>
-
-#
-### Video Game Highlights
-
 <details><summary>Holdfast NaW: Survival Fortification</summary>
 <br>
 
