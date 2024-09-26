@@ -104,6 +104,18 @@ Sourceduty has been exploring creative game design concepts that intersect with 
 
 Another Sourceduty initiative is the development of a concept multiplayer game inspired by cheat codes, creatively titled "Cheat_Codes." This project imagines a gaming experience where players can modify and customize their gameplay environment using cheat-inspired mechanics, such as character customization, infinite resources, and unique abilities like "big head mode" or "moon gravity." This project is open-source, allowing the community to contribute to and expand upon the game's core ideas, reflecting Sourceduty's commitment to collaborative and innovative digital content creation.
 
+
+<br>
+</details>
+<details><summary>VR & AR</summary>
+<br>
+
+![VR](https://github.com/user-attachments/assets/d64c8d44-754e-4929-a265-1ac9e022d9e9)
+
+Virtual Reality (VR) and Augmented Reality (AR) gaming have transformed the landscape of digital entertainment by offering immersive and interactive experiences that were once considered futuristic. VR gaming creates a fully digital environment where players can explore and interact using headsets and motion controllers. This technology allows users to feel as if they are physically present in the game world, enhancing the level of engagement and realism. Popular VR games such as Beat Saber and Half-Life: Alyx showcase the potential of this medium to deliver intense, immersive gameplay that traditional gaming cannot match. As VR technology advances, the potential for even more realistic and complex gaming experiences continues to grow.
+
+In contrast, AR gaming overlays digital elements onto the real world, blending virtual and physical environments. This is often achieved through smartphones, tablets, or AR glasses. Games like Pokémon GO have popularized AR by allowing players to catch virtual creatures in real-world locations, creating a unique blend of exercise, exploration, and gaming. AR gaming is more accessible than VR due to its reliance on devices most people already own. It provides a way to integrate gaming into everyday life, making it a social and interactive experience that connects the virtual and real worlds. Both VR and AR gaming continue to evolve, pushing the boundaries of how digital and physical spaces can be merged for entertainment.
+
 <br>
 </details>
 <details><summary>Video Game Emulators</summary>
