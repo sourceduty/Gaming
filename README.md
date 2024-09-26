@@ -39,6 +39,15 @@ One of Steam's standout features is its frequent sales and discounts, which have
 Steam's success has also been driven by its robust social and community features. The platform includes features such as friends lists, in-game chat, and Steam Groups, enabling players to connect and play together seamlessly. The Steam Workshop allows users to create, share, and download mods, enhancing the replayability and creativity of many games. Achievements, trading cards, and badges further gamify the experience, encouraging players to explore games more thoroughly. Moreover, Steam's streaming capabilities, through Steam Broadcasting and Steam Link, enable users to stream their gameplay to other devices or watch others play, adding a social and interactive dimension to the gaming experience. Through these features, Steam has cultivated a dynamic and engaged community that continues to thrive.
 
 #
+### Game Money
+
+![Game Credits](https://github.com/user-attachments/assets/f8768f9f-3d72-4021-955e-ec4bad74efb5)
+
+In-game marketplaces and credits have become a fundamental aspect of modern gaming, providing players with opportunities to purchase, trade, and acquire virtual goods, from cosmetics and character skins to weapons and in-game currency. These marketplaces are often integrated into the game's economy, allowing players to use real money to purchase in-game credits, which can then be spent on various virtual items. This model not only enhances player engagement by offering customization and progression options but also generates significant revenue for game developers through microtransactions.
+
+Games like "Fortnite" and "Genshin Impact" have set benchmarks. "Fortnite" generates billions in revenue annually through its marketplace by offering a range of exclusive and rotating items, alongside a popular battle pass system. "Genshin Impact" leverages a gacha model where players use in-game credits to unlock characters and weapons, making it highly profitable due to its allure of chance and rarity. These games demonstrate the financial potential of well-executed in-game marketplaces, balancing player satisfaction with lucrative monetization strategies.
+
+#
 ### Game Notes
 
 <details><summary>Video Game Perspectives</summary>
