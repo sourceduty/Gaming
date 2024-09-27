@@ -11,6 +11,15 @@ Another interesting project is "Sphere Tanks," a sci-fi military game where play
 Additionally, "Sticky Ball" presents a unique vehicle-based sandbox adventure where players control an omnidirectional sphere-shaped vehicle capable of adhering to any surface. The game focuses on exploration and puzzle-solving within a dynamic urban environment, providing a creative and open-ended gameplay experience​.
 
 #
+### Influence
+
+![Movie Games](https://github.com/user-attachments/assets/28c6a6da-9169-4ac6-9aa7-d8703a47b533)
+
+Video games and movies have a profound influence on each other, often borrowing themes, characters, and narratives to create immersive experiences. Films like "Mad Max" and "I Am Legend" have inspired video game franchises, leading to the creation of worlds that players can explore and interact with, embodying the same sense of desolation and struggle for survival. This cross-pollination has enriched both mediums, allowing for more dynamic storytelling and character development.
+
+Conversely, video games have influenced movies by providing complex, interactive narratives and deep world-building that filmmakers have adapted into cinematic experiences. The Fallout series, for example, has taken inspiration from various post-apocalyptic films but has also set a benchmark for storytelling in the genre, influencing how similar narratives are portrayed on screen. This cyclical relationship continues to evolve, blurring the lines between passive and interactive entertainment.
+
+#
 ### Video Game Intelligence
 
 ![Sourceduty](https://github.com/user-attachments/assets/cd96b8cc-5053-4aca-b390-719a27330851)
