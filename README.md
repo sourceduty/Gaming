@@ -13,6 +13,8 @@ Additionally, "Sticky Ball" presents a unique vehicle-based sandbox adventure wh
 #
 ### Video Game Intelligence
 
+![Sourceduty](https://github.com/user-attachments/assets/cd96b8cc-5053-4aca-b390-719a27330851)
+
 Examining video game intelligence across various genres reveals a spectrum of cognitive demands, from strategic thinking to problem-solving and creativity. Classic games like chess, featured in Chessmaster or Battle Chess, require players to employ deep strategic intelligence. These games promote critical thinking as players must anticipate opponents’ moves and formulate complex strategies. Vintage titles such as Civilization not only engage players in resource management and tactical warfare but also demand historical knowledge and foresight in planning for future advancements. Similarly, modern games like Starcraft II exemplify the need for quick decision-making and multitasking, challenging players to manage resources and troops in real-time.
 
 Games that teach players the most are often those that integrate educational elements into their gameplay mechanics. Titles like Kerbal Space Program teach players about physics and engineering through the construction of spacecraft, emphasizing trial and error, creativity, and spatial reasoning. The Portal series is another excellent example, where players learn about physics concepts and logical reasoning while solving increasingly complex puzzles. Furthermore, role-playing games (RPGs) like The Witcher 3 encourage narrative comprehension and moral reasoning, as players navigate intricate storylines and make choices that impact the game world and its characters.
