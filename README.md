@@ -209,6 +209,8 @@ Sourceduty loves World War 3 for its intense tactical combat and realistic depic
 [Sports Product](https://github.com/sourceduty/Sports_Product)
 <br>
 [Steam: Sourceduty](https://steamcommunity.com/id/s0urceduty)
+<br>
+[In-Game Money](https://github.com/sourceduty/In-Game_Money)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
