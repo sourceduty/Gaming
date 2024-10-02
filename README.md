@@ -79,6 +79,17 @@ In-game marketplaces and credits have become a fundamental aspect of modern gami
 Games like "Fortnite" and "Genshin Impact" have set benchmarks. "Fortnite" generates billions in revenue annually through its marketplace by offering a range of exclusive and rotating items, alongside a popular battle pass system. "Genshin Impact" leverages a gacha model where players use in-game credits to unlock characters and weapons, making it highly profitable due to its allure of chance and rarity. These games demonstrate the financial potential of well-executed in-game marketplaces, balancing player satisfaction with lucrative monetization strategies.
 
 #
+### VR is Painful
+
+![Ready Player One](https://github.com/user-attachments/assets/e114e806-3dda-4cf6-bb67-d85a70f267c6)
+
+The history of Virtual Reality (VR) and Augmented Reality (AR) traces back to the mid-20th century. One of the earliest forays into VR came with the "Sensorama," developed in the 1960s by Morton Heilig. It was a multi-sensory machine that simulated a real-world experience through visuals, sounds, and even smells, giving users an immersive environment. Around the same time, Ivan Sutherland created the "Sword of Damocles," the first head-mounted display (HMD) in 1968, which projected simple wireframe graphics. These inventions laid the foundation for VR by introducing the idea of creating simulated environments through technology. However, the technology was rudimentary, expensive, and lacked the computing power necessary for widespread use.
+
+Retro VR in the 1980s and 1990s saw significant advancements, but the technology remained niche. Companies like VPL Research, founded by Jaron Lanier, pioneered commercial VR systems and introduced terms like "virtual reality" to the public. VPL developed the first VR gloves and HMDs, and arcade games like SEGA’s "VR-1" tried to popularize VR. However, the high cost, cumbersome hardware, and underwhelming graphical performance kept VR confined to research labs and arcades. The technology was ahead of its time, unable to meet mainstream expectations due to limitations in computing power and user experience, leading to a decline in interest by the late '90s.
+
+Modern VR has made a significant comeback, with companies like Oculus, Sony, and HTC introducing consumer-grade headsets with improved graphics, motion tracking, and more interactive experiences. Despite these advancements, VR hasn't become as popular as expected. High hardware costs, limited content variety, and the physical discomfort some users experience after prolonged use are major barriers to adoption. Moreover, VR still struggles with social isolation issues, as users are often disconnected from their physical surroundings. As a result, while VR continues to evolve technologically, it remains a niche product rather than a mainstream phenomenon.
+
+#
 ### Game Notes
 
 <details><summary>Video Game Perspectives</summary>
