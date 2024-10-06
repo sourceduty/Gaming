@@ -180,12 +180,12 @@ Emulators are popular among enthusiasts for several reasons, including preservin
 
 <br>
 </details>
-<details><summary>WW3</summary>
+<details><summary>PUBG</summary>
 <br>
 
-![WW3](https://github.com/user-attachments/assets/5cd1eb91-905e-4ce8-a3cd-56109e6296e9)
+![PUBG](https://github.com/user-attachments/assets/fc4ba005-df00-40b6-86ea-4c8df18521aa)
 
-Sourceduty loves World War 3 for its intense tactical combat and realistic depictions of modern warfare. The game's focus on teamwork, strategic planning, and detailed customization of weapons and gear makes it incredibly engaging. The immersive environments and dynamic battles capture the thrill of large-scale conflicts, providing an exciting experience that resonates with fans of military-themed games. Whether it’s planning out strategies or diving into chaotic firefights, World War 3 offers endless excitement and adrenaline-pumping action.
+Sourceduty loves PUBG for its intense tactical combat and realistic depictions of modern warfare. In recent updates, PUBG introduced automatic attachments and loot indicators to streamline the looting process and enhance gameplay fluidity. The automatic attachment system allows players to quickly equip compatible attachments onto their weapons without needing to manually drag them, saving time in high-pressure situations. This feature automatically replaces lower-tier attachments with higher-tier ones when picked up, ensuring players always have the best available gear. Additionally, loot indicators now highlight items that are more beneficial to a player’s current loadout. These indicators make it easier to identify valuable items on the ground, helping players prioritize essential gear during fast-paced matches. Both features contribute to a smoother looting experience, allowing players to focus more on strategy and combat rather than inventory management.
 
 <br>
 </details>
