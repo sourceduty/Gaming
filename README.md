@@ -183,7 +183,7 @@ Emulators are popular among enthusiasts for several reasons, including preservin
 <details><summary>PUBG</summary>
 <br>
 
-![PUBG](https://github.com/user-attachments/assets/fc4ba005-df00-40b6-86ea-4c8df18521aa)
+![PUBG](https://github.com/user-attachments/assets/dc215bd0-2ac7-4513-9b08-9341eac21e73)
 
 Sourceduty loves PUBG for its intense tactical combat and realistic depictions of modern warfare. In recent updates, PUBG introduced automatic attachments and loot indicators to streamline the looting process and enhance gameplay fluidity. The automatic attachment system allows players to quickly equip compatible attachments onto their weapons without needing to manually drag them, saving time in high-pressure situations. This feature automatically replaces lower-tier attachments with higher-tier ones when picked up, ensuring players always have the best available gear. Additionally, loot indicators now highlight items that are more beneficial to a player’s current loadout. These indicators make it easier to identify valuable items on the ground, helping players prioritize essential gear during fast-paced matches. Both features contribute to a smoother looting experience, allowing players to focus more on strategy and combat rather than inventory management.
 
