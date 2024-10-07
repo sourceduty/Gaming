@@ -1,4 +1,4 @@
-![Gamer](https://github.com/user-attachments/assets/2000b044-77e4-4b72-9468-3ea8cafc096f)
+![Mario](https://github.com/user-attachments/assets/071f4efa-8e68-4b7f-8056-084a8549615b)
 
 > Digital and physical games.
 
@@ -201,6 +201,10 @@ Sourceduty loves PUBG for its intense tactical combat and realistic depictions o
 #
 
 ![Sticky Baller](https://github.com/user-attachments/assets/296fb37e-1dd5-4672-a535-4909b22ee458)
+
+#
+
+![Gamer](https://github.com/user-attachments/assets/2000b044-77e4-4b72-9468-3ea8cafc096f)
 
 #
 ### Related Links
