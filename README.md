@@ -53,7 +53,7 @@ The evolution of video game intelligence highlights not only the increasing comp
 #
 ### Games
 
-![Gamer](https://github.com/sourceduty/Gaming/assets/123030236/5f0ab381-d9ff-4507-a2f4-51d124252c66)
+![GB](https://github.com/user-attachments/assets/c0d704e2-0742-4c35-a586-3ce71edafc13)
 
 Physical and digital games have become integral parts of human entertainment, each offering unique experiences and benefits. Physical games, such as board games, card games, and sports, often require players to be in the same physical space. These games promote social interaction, strategic thinking, and sometimes physical activity, enhancing both mental and physical health. The tactile nature of physical games can be highly engaging, providing a sensory experience that digital games cannot replicate. Moreover, physical games can be more accessible, not requiring expensive equipment or technology, making them a popular choice for many people.
 
