@@ -204,6 +204,8 @@ Sourceduty loves PUBG for its intense tactical combat and realistic depictions o
 #
 ![Gaming](https://github.com/user-attachments/assets/a1e2797d-cc27-42bb-ab80-c46f9eacecc7)
 #
+![PUBG](https://github.com/user-attachments/assets/9395e97f-9ec0-4d79-8db9-49963d894b1b)
+#
 ![Sticky Baller](https://github.com/user-attachments/assets/296fb37e-1dd5-4672-a535-4909b22ee458)
 #
 ![Meme](https://github.com/user-attachments/assets/2a33f88e-6345-4001-ac99-777dd174f670)
