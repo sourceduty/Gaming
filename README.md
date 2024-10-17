@@ -249,6 +249,8 @@ Beyond landing spots, ChatGPT can also assist you in planning your loot strategy
 [Steam: Sourceduty](https://steamcommunity.com/id/s0urceduty)
 <br>
 [In-Game Money](https://github.com/sourceduty/In-Game_Money)
+<br>
+[ChatGPT](https://github.com/sourceduty/ChatGPT)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
