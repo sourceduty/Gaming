@@ -189,12 +189,16 @@ Emulators are popular among enthusiasts for several reasons, including preservin
 
 <br>
 </details>
-<details><summary>PUBG</summary>
+<details><summary>PUBG and ChatGPT</summary>
 <br>
 
-![PUBG](https://github.com/user-attachments/assets/dc215bd0-2ac7-4513-9b08-9341eac21e73)
+![PUBG Map](https://github.com/user-attachments/assets/be1bdf01-6788-45d5-b42c-a175d5a2a89b)
 
 Sourceduty loves PUBG for its intense tactical combat and realistic depictions of modern warfare. In recent updates, PUBG introduced automatic attachments and loot indicators to streamline the looting process and enhance gameplay fluidity. The automatic attachment system allows players to quickly equip compatible attachments onto their weapons without needing to manually drag them, saving time in high-pressure situations. This feature automatically replaces lower-tier attachments with higher-tier ones when picked up, ensuring players always have the best available gear. Additionally, loot indicators now highlight items that are more beneficial to a player’s current loadout. These indicators make it easier to identify valuable items on the ground, helping players prioritize essential gear during fast-paced matches. Both features contribute to a smoother looting experience, allowing players to focus more on strategy and combat rather than inventory management.
+
+Using ChatGPT as a guide for landing spots in PUBG can significantly enhance your strategic planning. By analyzing the map and understanding the dynamics of popular zones, ChatGPT can help you identify the best places to land based on your play style. For example, if you’re looking for high-loot areas with intense early-game action, ChatGPT can point you toward hotspots like Pochinki, School, or the Military Base. These locations offer plenty of high-quality loot but are often crowded, meaning you’ll face enemies right from the start. On the other hand, for those who prefer a more calculated approach, ChatGPT can recommend less crowded areas with good loot-to-risk ratios, such as Rozhok, Yasnaya Polyana, or Primorsk. This tailored advice ensures that you make more informed landing choices and can effectively manage risk based on your preferred level of engagement.
+
+Beyond landing spots, ChatGPT can also assist you in planning your loot strategy and navigating areas where action is most likely to occur. With insights into which regions have reliable loot and frequent vehicle spawns, you can plan your routes to stock up efficiently and prepare for mid-to-late-game encounters. ChatGPT can highlight quieter areas like Lipovka or Kameshki for players seeking a slower start to gear up, allowing them to enter the action later on with a tactical advantage. By advising on strategic rotations and the likelihood of player density in certain zones, ChatGPT helps you anticipate where the action will unfold as the game progresses. This guidance not only improves your survival chances but also enhances your overall gameplay experience by aligning your strategies with your personal play style.
 
 <br>
 </details>
