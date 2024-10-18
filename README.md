@@ -1,4 +1,4 @@
-![Windtendo1](https://github.com/user-attachments/assets/dcee50b3-42a8-45db-a47f-67d79bfac52e)
+![Gaming](https://github.com/user-attachments/assets/327c1e7a-1812-4f2d-a66b-d65783a0881e)
 
 > Digital and physical games.
 
