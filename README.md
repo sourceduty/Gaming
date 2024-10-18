@@ -31,7 +31,7 @@ For game developers, a lifelong involvement in video games is not only a career 
 #
 ### Video Game Intelligence
 
-![Mission Failed](https://github.com/user-attachments/assets/cd0b2075-2bae-4279-aaf0-69aea75d1913)
+![Games](https://github.com/user-attachments/assets/284c3487-ad46-455e-865c-eb7093454157)
 
 Examining video game intelligence across various genres reveals a spectrum of cognitive demands, from strategic thinking to problem-solving and creativity. Classic games like chess, featured in Chessmaster or Battle Chess, require players to employ deep strategic intelligence. These games promote critical thinking as players must anticipate opponents’ moves and formulate complex strategies. Vintage titles such as Civilization not only engage players in resource management and tactical warfare but also demand historical knowledge and foresight in planning for future advancements. Similarly, modern games like Starcraft II exemplify the need for quick decision-making and multitasking, challenging players to manage resources and troops in real-time.
 
@@ -226,6 +226,8 @@ Beyond landing spots, ChatGPT can also assist you in planning your loot strategy
 ![Mario](https://github.com/user-attachments/assets/071f4efa-8e68-4b7f-8056-084a8549615b)
 #
 ![Angry Chicken](https://github.com/user-attachments/assets/26073e89-a761-42f5-bb6f-aaf4089d16ff)
+#
+![Mission Failed](https://github.com/user-attachments/assets/cd0b2075-2bae-4279-aaf0-69aea75d1913)
 
 #
 ### Related Links
