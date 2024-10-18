@@ -1,4 +1,4 @@
-![Gaming](https://github.com/user-attachments/assets/327c1e7a-1812-4f2d-a66b-d65783a0881e)
+![Logos](https://github.com/user-attachments/assets/303fc23b-7265-47a1-8f9e-f55cd4f3bcc2)
 
 > Digital and physical games.
 
