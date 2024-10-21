@@ -88,6 +88,15 @@ In-game marketplaces and credits have become a fundamental aspect of modern gami
 Games like "Fortnite" and "Genshin Impact" have set benchmarks. "Fortnite" generates billions in revenue annually through its marketplace by offering a range of exclusive and rotating items, alongside a popular battle pass system. "Genshin Impact" leverages a gacha model where players use in-game credits to unlock characters and weapons, making it highly profitable due to its allure of chance and rarity. These games demonstrate the financial potential of well-executed in-game marketplaces, balancing player satisfaction with lucrative monetization strategies.
 
 #
+### Limited Team Members
+
+![IOI](https://github.com/user-attachments/assets/3718e59e-135b-405b-90cf-d9fdc79d9908)
+
+Preventing physical group gamer gatherings can be managed effectively by focusing on game modes that limit team sizes to four players, as seen in popular games like Fortnite and Apex Legends. In these games, players can only form small squads, typically capped at three or four members, which discourages the need for larger, in-person group gatherings. By limiting the size of teams, developers reduce the logistical and social incentives for players to organize large meetups. Additionally, restricting in-game communication to within these small squads further encourages players to remain in smaller, decentralized groups, often playing from remote locations, making it harder for large teams to physically coordinate.
+
+This strategy also impacts professional gaming groups, similar to the IOI seen in Ready Player One. For example, in Overwatch 2 and Valorant, where team sizes are limited to five players, it becomes more challenging for large gaming organizations to dominate through sheer numbers or massive group coordination. By capping team sizes, developers effectively force organizations to focus on skill and strategy within smaller groups rather than large-scale coordination. This reduces the competitive advantage of large groups and helps prevent monopolization of resources or control over gaming environments, promoting a more balanced and fair experience for both casual and professional gamers alike.
+
+#
 ### VR is Painful
 
 ![Ready Player One](https://github.com/user-attachments/assets/e114e806-3dda-4cf6-bb67-d85a70f267c6)
