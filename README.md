@@ -1,4 +1,4 @@
-![Logos](https://github.com/user-attachments/assets/303fc23b-7265-47a1-8f9e-f55cd4f3bcc2)
+https://github.com/user-attachments/assets/268cc9d2-6f64-4601-887a-90ff25d1594c
 
 > Digital and physical games.
 
@@ -235,6 +235,8 @@ Beyond landing spots, ChatGPT can also assist you in planning your loot strategy
 ![Mario](https://github.com/user-attachments/assets/071f4efa-8e68-4b7f-8056-084a8549615b)
 #
 ![Angry Chicken](https://github.com/user-attachments/assets/26073e89-a761-42f5-bb6f-aaf4089d16ff)
+#
+![Logos](https://github.com/user-attachments/assets/303fc23b-7265-47a1-8f9e-f55cd4f3bcc2)
 #
 ![Mission Failed](https://github.com/user-attachments/assets/cd0b2075-2bae-4279-aaf0-69aea75d1913)
 
