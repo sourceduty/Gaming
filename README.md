@@ -1,4 +1,4 @@
-https://github.com/user-attachments/assets/268cc9d2-6f64-4601-887a-90ff25d1594c
+https://github.com/user-attachments/assets/c06cb4d3-c994-4351-afef-c0541f56de20
 
 > Digital and physical games.
 
