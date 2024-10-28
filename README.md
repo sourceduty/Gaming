@@ -220,6 +220,15 @@ Beyond landing spots, ChatGPT can also assist you in planning your loot strategy
 
 <br>
 </details>
+<details><summary>Expanding PUBG</summary>
+<br>
+
+Expanding PUBG beyond the battle royale format, while focusing on its signature Third-Person Perspective (TPP), opens up avenues for immersive and tactical gameplay using the existing maps. One potential mode is a Squad Survival mode, where multiple squads compete to hold and defend specific areas for extended periods. Using TPP enhances the experience as players can strategically peek around corners, positioning themselves advantageously while still remaining hidden. The goal could be to accumulate points by holding territory for the longest time, encouraging intense close-quarters combat and tactical teamwork as squads vie for control of key locations across the expansive maps.
+
+Another engaging TPP-focused mode could be a Hostage Rescue scenario, where one team defends an area while holding AI or player-controlled hostages, and the other team must infiltrate and extract them within a time limit. The use of TPP allows for dynamic gameplay, as players can assess threats and plan routes from behind cover without directly exposing themselves, making positioning and stealth crucial. Additionally, introducing a Heist mode, where teams compete to loot valuable items and extract them while avoiding ambushes, would emphasize TPP’s advantage in scouting and planning attacks. These modes maintain PUBG’s tactical and immersive essence, while offering varied gameplay experiences that make full use of its third-person perspective.
+
+<br>
+</details>
 
 #
 ![Fortnite Hole Trap Concept](https://github.com/user-attachments/assets/c9dab3d6-3b5d-4515-9fe3-4853d90402a3)
