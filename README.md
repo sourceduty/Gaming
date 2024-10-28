@@ -79,6 +79,15 @@ One of Steam's standout features is its frequent sales and discounts, which have
 Steam's success has also been driven by its robust social and community features. The platform includes features such as friends lists, in-game chat, and Steam Groups, enabling players to connect and play together seamlessly. The Steam Workshop allows users to create, share, and download mods, enhancing the replayability and creativity of many games. Achievements, trading cards, and badges further gamify the experience, encouraging players to explore games more thoroughly. Moreover, Steam's streaming capabilities, through Steam Broadcasting and Steam Link, enable users to stream their gameplay to other devices or watch others play, adding a social and interactive dimension to the gaming experience. Through these features, Steam has cultivated a dynamic and engaged community that continues to thrive.
 
 #
+### 4K Demand
+
+![4K](https://github.com/user-attachments/assets/ac1ee8d0-89dc-4e2e-b860-17d0ee90c01c)
+
+4K gaming requires a high-performance setup, including a powerful GPU, CPU, RAM, storage, and a compatible monitor to handle the intensive graphics demands. For the GPU, a minimum of Nvidia’s RTX 3070 or AMD’s RX 6800 is necessary for playable frame rates, while more powerful options like the RTX 3080 or RX 6900 XT are ideal for achieving 60 FPS or higher in modern titles. The CPU must match the GPU's capability to prevent bottlenecks; models like the Intel Core i5-12600K or AMD Ryzen 5 5600X work well with these GPUs. Additionally, at least 16GB of RAM is recommended, with 32GB preferred for seamless multitasking, and an SSD is essential for minimizing loading times and improving responsiveness. A high-quality 4K monitor is also crucial, with basic models typically starting at $300, and more advanced options featuring HDR, adaptive sync (G-Sync or FreeSync), and 144 Hz refresh rates going up to $700. For a balanced experience, a 750W PSU is often recommended to handle the power draw of these components, ensuring stable and reliable performance.
+
+The overall cost of a 4K gaming setup, including a 4K monitor, varies based on component choices and setup requirements. A budget-friendly 4K gaming PC build or entry-level pre-built system with a basic 4K monitor starts around $1,500-$2,000 USD, or roughly $2,000-$2,500 CAD. For gaming laptops capable of 4K, prices start at about $1,800 USD ($2,300 CAD) for entry-level models and increase with more advanced features and specs. Including a dedicated 4K monitor with features like high refresh rates and HDR can add $300-$700 USD to the total cost, with prices varying based on specific monitor specifications. While prices fluctuate due to market conditions and retailer, the overall investment for smooth 4K gaming lands in the $1,800-$2,700 USD range, depending on whether a PC or laptop setup is preferred.
+
+#
 ### Game Money
 
 ![Game Credits](https://github.com/user-attachments/assets/f8768f9f-3d72-4021-955e-ec4bad74efb5)
