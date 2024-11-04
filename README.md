@@ -265,6 +265,8 @@ Another engaging TPP-focused mode could be a Hostage Rescue scenario, where one 
 #
 ![Logos](https://github.com/user-attachments/assets/303fc23b-7265-47a1-8f9e-f55cd4f3bcc2)
 #
+![Fortnite Ticket](https://github.com/user-attachments/assets/4abab0b4-83dc-4102-a90a-34ca56c9db4b)
+#
 ![Mission Failed](https://github.com/user-attachments/assets/cd0b2075-2bae-4279-aaf0-69aea75d1913)
 
 #
