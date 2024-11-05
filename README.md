@@ -247,6 +247,13 @@ Another engaging TPP-focused mode could be a Hostage Rescue scenario, where one 
 
 <br>
 </details>
+<details><summary>Mediocre PUBG</summary>
+<br>
+
+PUBG's heavy focus on battle royale has limited its potential to fully utilize its detailed maps for other third-person perspective (TPP) game modes. By centering gameplay around a single, survival-based mode, PUBG has missed opportunities to diversify player engagement and offer a richer variety of experiences within its existing environments. The maps—spanning vast, beautifully crafted landscapes with unique terrains and locations—are underutilized for modes beyond battle royale, which restricts creative gameplay and keeps players tied to the same survival format. This narrow focus also limits tactical diversity, as there’s little opportunity to explore the maps in new ways or interact with the environment in non-survival contexts. Expanding into more objective-driven modes, like capture-the-flag or search-and-destroy, could add depth and attract players looking for alternatives to long, survival-heavy rounds, ultimately enhancing PUBG’s versatility and replayability.
+
+<br>
+</details>
 
 #
 ![Fortnite Hole Trap Concept](https://github.com/user-attachments/assets/c9dab3d6-3b5d-4515-9fe3-4853d90402a3)
