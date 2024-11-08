@@ -261,6 +261,21 @@ PUBG's heavy focus on battle royale has limited its potential to fully utilize i
 
 <br>
 </details>
+<details><summary>PUBG Inflatable Boat</summary>
+<br>
+
+![PUBG](https://github.com/user-attachments/assets/7701dc95-8410-45bd-92d7-1ad39003666d)
+
+In the latest update of PUBG, players can now utilize a new inflatable boat, adding an exciting dimension to gameplay. This versatile vehicle serves as both a mobile cover and a source of fun, allowing players to deploy it strategically on rooftops, car roofs, and building antennas. Its lightweight design enables quick setup and relocation, making it an ideal choice for ambushing enemies or evading gunfire from above. Whether used for tactical advantages or as a whimsical escape route, the inflatable boat enhances the dynamic and creative aspects of player interactions in the game.
+
+### PUBG Inflatable Boat Mission
+
+[ ] Deploy the inflatable boat from the inventory on a building antenna and capture a screenshot.
+
+...
+
+<br>
+</details>
 
 #
 ![Fortnite Hole Trap Concept](https://github.com/user-attachments/assets/c9dab3d6-3b5d-4515-9fe3-4853d90402a3)
