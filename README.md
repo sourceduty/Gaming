@@ -270,7 +270,9 @@ In the latest update of PUBG, players can now utilize a new inflatable boat, add
 
 ### PUBG Inflatable Boat Mission
 
-[ ] Deploy the inflatable boat from the inventory on a building antenna and capture a screenshot.
+[X] Deploy the inflatable boat from the inventory on a building antenna and capture a screenshot.
+
+![PUBG Boat](https://github.com/user-attachments/assets/24342a4f-8502-4c34-b2b7-45b8c34ec206)
 
 ...
 
