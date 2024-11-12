@@ -1,4 +1,4 @@
-![Gamer](https://github.com/user-attachments/assets/d355e616-2b59-4e74-a3b6-8593e2e4fdf4)
+![PUBG](https://github.com/user-attachments/assets/5653f190-84a8-47a5-9b9e-9d7cd2b74c17)
 
 > Digital and physical games.
 
