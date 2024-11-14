@@ -245,6 +245,8 @@ Using ChatGPT as a guide for landing spots in PUBG can significantly enhance you
 
 Beyond landing spots, ChatGPT can also assist you in planning your loot strategy and navigating areas where action is most likely to occur. With insights into which regions have reliable loot and frequent vehicle spawns, you can plan your routes to stock up efficiently and prepare for mid-to-late-game encounters. ChatGPT can highlight quieter areas like Lipovka or Kameshki for players seeking a slower start to gear up, allowing them to enter the action later on with a tactical advantage. By advising on strategic rotations and the likelihood of player density in certain zones, ChatGPT helps you anticipate where the action will unfold as the game progresses. This guidance not only improves your survival chances but also enhances your overall gameplay experience by aligning your strategies with your personal play style.
 
+![PUBG Meme](https://github.com/user-attachments/assets/70a7fe39-3b66-44bd-b89b-56514618b785)
+
 <br>
 </details>
 <details><summary>Expanding PUBG</summary>
