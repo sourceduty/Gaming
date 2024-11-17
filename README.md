@@ -285,7 +285,7 @@ In the latest update of PUBG, players can now utilize a new inflatable boat, add
 <details><summary>PUBG Road Vehicles</summary>
 <br>
 
-![Car](https://github.com/user-attachments/assets/592a73fb-6986-4b1a-a7fc-939fb5ec606b)
+![PUBG Crash](https://github.com/user-attachments/assets/332c6820-2f84-41f9-9bee-641111234dee)
 
 Playing PUBG with cars can be an absolute blast, especially when creativity takes the wheel. The game's vast terrain and diverse settings make cars more than just a means of transport—they're tools for chaos and hilarity. Parking cars on rooftops, for instance, turns into a game within a game. With a the right angle, players can defy gravity and physics to land their vehicles on buildings, leaving opponents scratching their heads at the bizarre spectacle. This quirky use of cars can double as strategic positioning or just comedic trolling, with teams using rooftop cars as improvised sniper perches. Cars also bring endless fun in their explosive potential. Whether it's launching them off cliffs into unsuspecting enemies or purposefully wedging them into buildings to create a ridiculous barricade, their versatility is unmatched. 
 
