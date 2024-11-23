@@ -144,11 +144,6 @@ Using ChatGPT or similar AI tools to analyze gameplay in real-time can raise sig
 From a broader perspective, real-time AI assistance undermines the values of sportsmanship and fair competition. Players who rely on AI for in-game assistance may inadvertently foster an environment where winning becomes more about accessing advanced technology than about personal skill or teamwork. This can lead to frustration for other players who are genuinely striving to improve their gameplay without external help. Moreover, it could drive game developers to implement stricter anti-cheat measures, increasing the cost and complexity of maintaining a fair gaming ecosystem. Additionally, the prevalence of AI-based cheating may influence game design in the future, as developers might adjust game mechanics to limit AI exploitability, potentially altering the gaming experience for all players.
 
 #
-### Reconnecting with Alex
-
-To all of Alex's old friends: If you’ve been meaning to catch up, now’s the perfect time! Alex has been hard at work growing Sourceduty, but he’s always up for reconnecting with familiar faces, especially over email. And for those who know him well, yes—he’s still on PUBG, diving in with his usual “unique” approach to gameplay (think: zero strategy, maximum chaos). While he's not organizing any formal gaming sessions, feel free to jump online; you might just find him running headfirst into a firefight. Or, just send him an email to reconnect and hear about his latest projects and misadventures.
-
-#
 ### Game Notes
 
 <details><summary>Video Game Perspectives</summary>
