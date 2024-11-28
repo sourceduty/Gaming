@@ -1,4 +1,4 @@
-![PUBG](https://github.com/user-attachments/assets/5653f190-84a8-47a5-9b9e-9d7cd2b74c17)
+![Gamer](https://github.com/user-attachments/assets/0c271e00-cb82-4465-9042-7aa70cb0b828)
 
 > Digital and physical games.
 
@@ -256,6 +256,8 @@ Beyond landing spots, ChatGPT can also assist you in planning your loot strategy
 </details>
 <details><summary>Expanding PUBG</summary>
 <br>
+
+![PUBG](https://github.com/user-attachments/assets/5653f190-84a8-47a5-9b9e-9d7cd2b74c17)
 
 Expanding PUBG beyond the battle royale format, while focusing on its signature Third-Person Perspective (TPP), opens up avenues for immersive and tactical gameplay using the existing maps. One potential mode is a Squad Survival mode, where multiple squads compete to hold and defend specific areas for extended periods. Using TPP enhances the experience as players can strategically peek around corners, positioning themselves advantageously while still remaining hidden. The goal could be to accumulate points by holding territory for the longest time, encouraging intense close-quarters combat and tactical teamwork as squads vie for control of key locations across the expansive maps.
 
