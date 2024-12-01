@@ -41,9 +41,9 @@ It is essential to recognize the pitfalls of excessive gaming, including the tim
 
 ```
 Work-Gaming Time
-+-----+--------------------------------------------------------+
++--------------------------------------------------------------+
 |####|XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX|
-+-----+--------------------------------------------------------+
++--------------------------------------------------------------+
 0%    4%                                                       100%
 ```
 
