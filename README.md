@@ -39,6 +39,16 @@ Managing short periods of video game play is crucial for maintaining a balance t
 
 It is essential to recognize the pitfalls of excessive gaming, including the time and money often wasted on this form of entertainment. Video games, while entertaining, rarely contribute to long-term personal or professional growth, and they can distract from more meaningful pursuits. Financially, frequent spending on games, in-game purchases, or gaming hardware can quickly add up, draining resources better spent on education, career advancement, or experiences that offer tangible rewards. Viewing video games as a recreational tool rather than a priority can help foster a healthier perspective and minimize their impact on life’s more critical areas.
 
+```
+Work-Gaming Time
++-----+--------------------------------------------------------+
+|####|XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX|
++-----+--------------------------------------------------------+
+0%    4%                                                       100%
+```
+
+> Alex: "*I spend 4% of my time playing games instead of working or watching TV.*"
+
 #
 ### Video Game Life
 
