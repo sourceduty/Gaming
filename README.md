@@ -257,6 +257,9 @@ Emulators are popular among enthusiasts for several reasons, including preservin
 </details>
 
 #
+![Judo-Chop](https://github.com/user-attachments/assets/028c6ddb-52c9-464e-8e0a-ebe485dc3f94)
+
+#
 ### PUBG Notes
 
 <details><summary>PUBG and ChatGPT</summary>
