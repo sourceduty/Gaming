@@ -1,4 +1,4 @@
-![Gamer](https://github.com/user-attachments/assets/0c271e00-cb82-4465-9042-7aa70cb0b828)
+![Destruction](https://github.com/user-attachments/assets/42a7a404-a11d-43c8-bee3-b60c053419df)
 
 > Digital and physical games.
 
