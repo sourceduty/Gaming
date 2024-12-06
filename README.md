@@ -1,4 +1,4 @@
-![Destruction](https://github.com/user-attachments/assets/42a7a404-a11d-43c8-bee3-b60c053419df)
+![Dick Hitter](https://github.com/user-attachments/assets/734a3d68-ffbc-4fe5-8a3e-e3762e33c39a)
 
 > Digital and physical games.
 
@@ -42,12 +42,12 @@ It is essential to recognize the pitfalls of excessive gaming, including the tim
 ```
 Work-Gaming Time
 +--------------------------------------------------------------+
-|####|XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX|
+|##|X##XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX|
 +--------------------------------------------------------------+
-0%    4%                                                       100%
+0%    2%                                                       100%
 ```
 
-> Alex: "*I spend 4% of my time playing games instead of working or watching TV.*"
+> Alex: "*I spend 2% of my time playing games instead of working or watching TV.*"
 
 #
 ### Video Game Life
@@ -325,6 +325,10 @@ Playing PUBG with cars can be an absolute blast, especially when creativity take
 
 <br>
 </details>
+
+#
+
+![Destruction](https://github.com/user-attachments/assets/42a7a404-a11d-43c8-bee3-b60c053419df)
 
 #
 ![Fortnite Hole Trap Concept](https://github.com/user-attachments/assets/c9dab3d6-3b5d-4515-9fe3-4853d90402a3)
