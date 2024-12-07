@@ -50,6 +50,15 @@ Work-Gaming Time
 > Alex: "*I spend 2% of my time playing games instead of working or watching TV.*"
 
 #
+### PUBG Time Wasted
+
+![PUBG](https://github.com/user-attachments/assets/0652f082-b34c-4bc7-9aa4-99495850d58c)
+
+To calculate the total time PUBG wastes in the menu, lobby, and parachuting phases, we first consider the average time spent in each stage. Typically, players spend 30–60 seconds in the menu preparing for a game, around 60–90 seconds in the lobby waiting for matchmaking, and 60–90 seconds parachuting to the ground, depending on the drop location. Summing these up, the total wasted time per match can range from 150 to 240 seconds (2.5 to 4 minutes). Over multiple matches, this time compounds significantly, especially during extended gaming sessions.
+
+Considering a standard PUBG match lasts about 20–30 minutes, the percentage of time wasted in these pre-game and early-game activities becomes clearer. If we take the midpoint of the total wasted time (195 seconds or 3.25 minutes) and compare it to a 25-minute match, the wasted time constitutes approximately 13% of the total game time. This means a significant portion of each gaming session is consumed by activities that do not directly involve gameplay, reducing the overall efficiency and immersion of the experience.
+
+#
 ### Video Game Life
 
 ![Gaming](https://github.com/user-attachments/assets/fa6c0050-0e0e-4a87-82bc-135b1e2f4269)
