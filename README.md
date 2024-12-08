@@ -49,6 +49,8 @@ Work-Gaming Time
 
 > Alex: "*I spend 2% of my time playing games instead of working or watching TV.*"
 
+> "*2% of 8 hours is 9.6 minutes.*"
+
 #
 ### PUBG Time Wasted
 
