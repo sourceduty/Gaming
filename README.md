@@ -392,6 +392,8 @@ Playing PUBG with cars can be an absolute blast, especially when creativity take
 [In-Game Money](https://github.com/sourceduty/In-Game_Money)
 <br>
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Game Hacker](https://github.com/sourceduty/Game_Hacker)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
