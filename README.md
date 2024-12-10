@@ -364,7 +364,7 @@ Playing PUBG with cars can be an absolute blast, especially when creativity take
 #
 ![Mission Failed](https://github.com/user-attachments/assets/cd0b2075-2bae-4279-aaf0-69aea75d1913)
 #
-![Money Cash](https://github.com/user-attachments/assets/17c1339f-f56e-494b-acc1-d39dc95da3db)
+![Inmate](https://github.com/user-attachments/assets/2a94120a-dd1b-4f7c-a5e5-9b606b1db17f)
 
 #
 ### Related Links
